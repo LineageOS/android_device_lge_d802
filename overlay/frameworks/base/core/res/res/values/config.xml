@@ -2,6 +2,7 @@
 <!--
 /*
 ** Copyright 2015, The CyanogenMod Project
+** Copyright 2017, The Lineageos Project
 **
 ** Licensed under the Apache License, Version 2.0 (the "License");
 ** you may not use this file except in compliance with the License.
@@ -23,7 +24,7 @@
          Empty is viewed as "all".  Only used on devices which
          don't support RIL_REQUEST_GET_RADIO_CAPABILITY
          format is UMTS|LTE|... -->
-    <string name="config_radio_access_family" translatable="false">LTE|WCDMA|GSM</string>
+    <string name="config_radio_access_family" translatable="false">GSM|WCDMA|LTE</string>
 
 
 </resources>
