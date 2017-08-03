@@ -17,3 +17,10 @@ etc/firmware/adsp.mdt
 # NFC
 vendor/firmware/BCM20791B5_002.006.013.0011.0098_Generic_I2C_NCD_Signed_configdata.ncd
 vendor/firmware/BCM20791B5_002.006.013.0011.0098_Generic_PreI2C_NCD_Signed_configdata.ncd
+
+# Qualcomm framework
+vendor/lib/liblqe.so
+
+# Radio
+etc/data/dsi_config.xml
+etc/data/netmgr_config.xml
