@@ -42,7 +42,6 @@ etc/data/netmgr_config.xml
 bin/netmgrd
 bin/qmuxd
 lib/libmdmdetect.so
-lib/librmnetctl.so
 vendor/lib/libconfigdb.so
 vendor/lib/libnetmgr.so
 vendor/lib/libperipheral_client.so

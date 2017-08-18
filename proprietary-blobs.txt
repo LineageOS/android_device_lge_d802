@@ -40,7 +40,7 @@ lib/libacdbloader.so
 #bin/gsiff_daemon
 bin/rmt_storage
 bin/qmuxd
-lib/libril.so
+#lib/libril.so
 bin/rild
 lib/liblgderp.so
 bin/netmgrd
