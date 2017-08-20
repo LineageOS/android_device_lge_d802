@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "22bba628_1ecedbbf",
+        "filename": "system.prop",
+        "patchSetId": 8
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 15589
+      },
+      "writtenOn": "2017-08-20T12:27:03Z",
+      "side": 1,
+      "message": "Try 6 or 5 again...\nBut do we really need this line?\nhttps://review.lineageos.org/#/c/19508/",
+      "range": {
+        "startLine": 9,
+        "startChar": 34,
+        "endLine": 9,
+        "endChar": 35
+      },
+      "revId": "4051b985a398a9583a36e78a9c4c80477af13311",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
